@@ -9,3 +9,6 @@ obj/
 #Resource Caches
 _ReSharper.*
 *.sln.cache
+/src/obj
+/src/bin/Release/mupn.config
+/src/bin
